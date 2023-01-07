@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://demo-sc2tdr.us-east-1.xata.sh/db/contactdb",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
